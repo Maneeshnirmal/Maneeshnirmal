@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,shell,python,php" />
-    <a href="https://github-readme-streak-stats.herokuapp.com?user=Maneeshnirmal%2F&theme=tokyonight&border_radius=4.9" /></a>
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,python,php" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maneeshnirmal%2F&theme=tokyonight&border_radius=4.9" alt="GitHub Streak" /></a>
 </div>
 
 <br/>

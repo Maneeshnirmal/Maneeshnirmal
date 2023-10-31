@@ -1,49 +1,45 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner (1584 x 300 px) (1584 x 450 px) (1584 x 400 px)](https://github.com/Maneeshnirmal/Maneeshnirmal/assets/122463168/9e1f49dd-a9b4-4101-84ad-e17e047303fd)
+<h1 align="center">
+    <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+new+roman&size=23&pause=1000&color=0FA8FC&background=43034B00&center=true&vCenter=true&random=false&width=435&lines=Maneesh+Nirmal)" />
+</h1>
 
+<h3 align="center">A passionate software developer from India</h3>
 
-
-
-
+<br/>
 <!--
-**Maneeshnirmal/Maneeshnirmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-##![Git profile tools1](https://github.com/Maneeshnirmal/Maneeshnirmal/assets/122463168/3991d1c6-d8b2-4914-a88e-2a275df80635)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maneeshnirmal&show_icons=true&locale=en&layout=compact" alt="Maneeshnirmal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Maneeshnirmal&show_icons=true&locale=en&theme=buefy" alt="Maneeshnirmal" /></p>
-
-
-
-
-## Contact 
-<div> 
-  <a href="https://www.linkedin.com/in/maneesh-nirmal-b41002137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/maneeshnirmal" target="_blank"><img src="" target="_blank"></a>
-  <a href = "mailto: maneesh.nir@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
-</br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maneeshnirmal/Maneeshnirmal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maneeshnirmal/Maneeshnirmal/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Maneeshnirmal/Maneeshnirmal/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
  
+ 🔭 I’m currently working on **a chat app**
+ 
+ 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+ ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 
+ </div>-->
+ 
+<div align="center"> 
+  <a href="mailto:maneesh.nir@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/maneesh-nirmal-b41002137/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,shell,python,php" />
+    <a href="https://github-readme-streak-stats.herokuapp.com?user=Maneeshnirmal%2F&theme=tokyonight&border_radius=4.9)](https://git.io/streak-stats" /></a>
+
+</div>
+
+<br/>
+<hr/>
+
+

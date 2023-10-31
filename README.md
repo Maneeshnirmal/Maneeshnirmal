@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+new+roman&size=23&pause=1000&color=0FA8FC&background=43034B00&center=true&vCenter=true&random=false&width=435&lines=Maneesh+Nirmal)" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+new+roman&size=23&pause=1000&color=0FA8FC&background=43034B00&center=true&vCenter=true&random=false&width=435&lines=Maneesh+Nirmal" />
 </h1>
 
 <h3 align="center">A passionate software developer from India</h3>

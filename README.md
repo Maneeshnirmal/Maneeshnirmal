@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Times+new+roman&size=23&pause=1000&color=0FA8FC&background=43034B00&center=true&vCenter=true&random=false&width=435&lines=Maneesh+Nirmal" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Devops engineer from India</h3>
 
 <br/>
 <!--
@@ -35,8 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,shell,python,php" />
-    <a href="https://github-readme-streak-stats.herokuapp.com?user=Maneeshnirmal%2F&theme=tokyonight&border_radius=4.9)](https://git.io/streak-stats" /></a>
-
+    <a href="https://github-readme-streak-stats.herokuapp.com?user=Maneeshnirmal%2F&theme=tokyonight&border_radius=4.9" /></a>
 </div>
 
 <br/>

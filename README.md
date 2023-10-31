@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Times+new+roman&size=23&pause=1000&color=0FA8FC&background=43034B00&center=true&vCenter=true&random=false&width=435&lines=Maneesh+Nirmal" />
 </h1>
@@ -34,10 +32,17 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,python,php" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,python,php,jenkins,git,gcp" />
+<br/>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maneeshnirmal%2F&theme=tokyonight&border_radius=4.9" alt="GitHub Streak" /></a>
 </div>
-
+</br>
+</br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishastra/vishastra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishastra/vishastra/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vishastra/vishastra/output/github-contribution-grid-snake.svg">
+</picture>
 <br/>
 <hr/>
 
